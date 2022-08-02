@@ -1,9 +1,9 @@
-import "./App.css";
-
 function App() {
   return (
-    <h1 className="App" style={{ textAlign: "center" }}>
-      <strong>Love Tonight - SHOUSE</strong>
+    <p className="App" style={{ textAlign: "center" }}>
+      <strong>
+        Love Tonight - SHOUSE <br />
+      </strong>
       … Ooh <br />
       … When you're tired
       <br />
@@ -93,7 +93,7 @@ function App() {
       <br />
       All I need is your love tonight
       <br />
-    </h1>
+    </p>
   );
 }
 
