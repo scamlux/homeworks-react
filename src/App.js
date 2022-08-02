@@ -3,83 +3,95 @@ import "./App.css";
 function App() {
   return (
     <h1 className="App" style={{ textAlign: "center" }}>
-       <strong>WE ARE THE CHAMPIONS</strong>
-      I've paid my dues <br />
-      Time after time
+      <strong>Love Tonight - SHOUSE</strong>
+      … Ooh <br />
+      … When you're tired
       <br />
-      I've done my sentence
+      When you're lonely
       <br />
-      But committed no crime
+      Can just reach out an arm
       <br />
-      And bad mistakes
+      Know I'll be there
       <br />
-      I've made a few
+      I'll help you weather the storm
       <br />
-      I've had my share of sand
+      Us together
       <br />
-      Kicked in my face
+      Nothing's ever felt more like home
       <br />
-      But I've come through
+      Know I'll be there
       <br />
-      And we mean to go on and on and on and on
+      You will never be alone
       <br />
-      We are the champions, my friends
+      … All I need is your love tonight
       <br />
-      And we'll keep on fighting till the end
+      All I need is your love tonight
       <br />
-      We are the champions
+      All I need is your love tonight (it's all I need)
       <br />
-      We are the champions
+      All I need is your love tonight (tonight, tonight, ooh)
       <br />
-      No time for losers
+      … Ooh (love tonight)
       <br />
-      'Cause we are the champions of the World
+      … In that moment
       <br />
-      I've taken my bows
+      When you're feeling like there's nothing at all
       <br />
-      And my curtain calls
+      Reach out to me
       <br />
-      You brought me fame and fortune
+      Know that I'll answer the call
       <br />
-      And everything that goes with it
+      Us together
       <br />
-      I thank you all
+      Nothing's ever felt more like home
       <br />
-      But it's been no bed of roses
+      Know I'll be there
       <br />
-      No pleasure cruise
+      You will never be alone
       <br />
-      I consider it a challenge before
+      … All I need is your love tonight
       <br />
-      The human race
+      All I need is your love tonight
       <br />
-      And I ain't gonna lose
+      All I need is your love tonight
       <br />
-      And we mean to go on and on and on and on
+      All I need is your love tonight
       <br />
-      We are the champions, my friends
+      All I need is your love tonight
       <br />
-      And we'll keep on fighting till the end
+      All I need is your love tonight
       <br />
-      We are the champions
+      All I need is your love tonight
       <br />
-      We are the champions
+      All I need is your love tonight
       <br />
-      No time for losers
+      … Ooh
       <br />
-      'Cause we are the champions of the World
+      … All I need is your love tonight (all I need is your love, all I need is
+      your love)
       <br />
-      We are the champions, my friends
+      All I need is your love tonight (all I need is your love, all I need is
+      your love)
       <br />
-      And we'll keep on fighting till the end
+      All I need is your love tonight
       <br />
-      We are the champions
+      All I need is your love tonight (tonight)
       <br />
-      We are the champions
+      All I need is your love tonight (ooh, ooh)
       <br />
-      No time for losers
+      All I need is your love tonight (all I need, all I need)
       <br />
-      'Cause we are the champions of the World
+      All I need is your love tonight
+      <br />
+      All I need is your love tonight (tonight)
+      <br />
+      All I need is your love tonight
+      <br />
+      All I need is your love tonight
+      <br />
+      All I need is your love tonight
+      <br />
+      All I need is your love tonight
       <br />
     </h1>
   );
