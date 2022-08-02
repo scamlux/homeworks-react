@@ -1,9 +1,10 @@
-import "./App.css";
-
 function App() {
   return (
-    <h1 className="App" style={{ textAlign: "center" }}>
-       <strong>WE ARE THE CHAMPIONS</strong>
+    <p className="App" style={{ textAlign: "center" }}>
+      <strong>
+        WE ARE THE CHAMPIONS <br />
+      </strong>
+      <hr />
       I've paid my dues <br />
       Time after time
       <br />
@@ -81,7 +82,7 @@ function App() {
       <br />
       'Cause we are the champions of the World
       <br />
-    </h1>
+    </p>
   );
 }
 
